@@ -53,4 +53,4 @@ Gerçek değerlerle tahmin edilen değerlerin karşılaştırıldığı görsel 
 
 ## İletişim
 
-Sorularınız veya geri bildirimleriniz için [email@example.com](mailto:uzayk204@gmail.com) adresine ulaşabilirsiniz.
+Sorularınız veya geri bildirimleriniz için [uzayk204@gmail.com](mailto:uzayk204@gmail.com) adresine ulaşabilirsiniz.
